@@ -1,13 +1,13 @@
 # Site
-name: "Mediumish"
-description: "Jekyll Template for Blogging"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: "Mojo"
+description: "A blog for coffee shop owners and managers made by Mojo."
+meta_description: "A blog for coffee shop owners and managers made by Mojo."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+baseurl: ''
+google_analytics: ''
+disqus: ''
+mailchimp-list: ''
 
 # Authors
 authors:
