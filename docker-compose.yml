@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  jekyll:
+    build: ./
+    volumes:
+      - .:/site
+    ports:
+      - '8080:4000'
