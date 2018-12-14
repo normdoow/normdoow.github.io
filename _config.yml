@@ -5,9 +5,9 @@ meta_description: "A blog for coffee shop owners and managers made by Mojo."
 logo: 'assets/images/mojo_logo.png'
 favicon: 'assets/images/mojo_favicon.png'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-131045016-1'
 disqus: ''
-mailchimp-list: ''
+mailchimp-list: 'https://mojocoffee.us7.list-manage.com/subscribe/post?u=f030fcceb8790f91e569ead18&amp;id=4a1293845b'
 
 # Authors
 authors:
