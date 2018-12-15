@@ -652,3 +652,19 @@ License: https://www.wowthemes.net/freebies-license/
  .card .img-fluid {
     width:100%;
 }
+
+.large-font {
+    font-size: 600%;
+}
+
+.medium-font {
+    font-size: 300%;
+}
+
+.mojo-color {
+    color: #56719e;
+}
+
+.center {
+    text-align: center;
+}
