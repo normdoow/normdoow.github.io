@@ -258,6 +258,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .featured-image {
      display:block;
+     margin: auto;
      margin-bottom:1.5rem;
 }
  .share {
@@ -665,6 +666,13 @@ License: https://www.wowthemes.net/freebies-license/
     color: #56719e;
 }
 
-.center {
+.center_text {
     text-align: center;
+}
+.center {
+    margin: auto;
+}
+.simple-border {
+    border-width: 1px;
+    border-color: black;
 }
