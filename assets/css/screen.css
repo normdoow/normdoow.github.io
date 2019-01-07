@@ -671,6 +671,9 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .center {
     margin: auto;
+    text-align: center;
+    align-content: center;
+    align-items: center;
 }
 .simple-border {
     border-width: 1px;
