@@ -6,6 +6,7 @@ categories: [ Mojo, Wayfarer, Data ]
 image: assets/images/wayfarer_shop.jpeg
 featured: true
 hidden: true
+description: "This Case Study takes a look at evaluating how we’ve done at adding value for an independent coffee shop."
 ---
 
 We set out to build the perfect order-ahead platform for local coffee shops, but quickly realized that the only way to get to perfection was to listen closely to our users. After building out a prototype, we launched at Wayfarer Coffee Roasters, in Laconia, NH. Since then, we’ve been getting as much feedback as possible from Karen (the owner at Wayfarer), her baristas, and the shop’s customers. Our intent was to bring value to coffee shops in three ways: by increasing revenue, improving customer experience, and maximizing shop efficiency. We’re really excited about how far we’ve come at Wayfarer, and decided to use this case study to evaluate how we’ve done at adding value for the shop. Our sample size is small, so this is intended for us to get an idea of how we’re doing and to give other shops glimpses of how Mojo could potentially impact them. We’ve evaluated our sales data, app/site analytics tool data, and surveyed Wayfarer’s owner, baristas, and customers to get as complete of a picture as we can.
