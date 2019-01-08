@@ -55,6 +55,7 @@ License: https://www.wowthemes.net/freebies-license/
      font-weight:700;
      font-size:1.4rem;
      margin-bottom:27px;
+     color: #56719e;
 }
  .section-title span {
      border-bottom:1px solid rgba(0,0,0,.44);
@@ -221,7 +222,8 @@ License: https://www.wowthemes.net/freebies-license/
      margin-right:5px;
 }
  .mainheading h1.sitetitle {
-     font-family:Righteous;
+     font-family:Sathu;
+     color: #56719e;
 }
  .mainheading h1.posttitle {
      font-weight:700;
