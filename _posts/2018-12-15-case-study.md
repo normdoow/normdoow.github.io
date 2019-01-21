@@ -9,25 +9,25 @@ hidden: false
 description: "This Case Study takes a look at evaluating how we’ve done at adding value for an independent coffee shop."
 ---
 
-We set out to build the perfect order-ahead platform for local coffee shops, but quickly realized that the only way to get to perfection was to listen closely to our users. After building out a prototype, we launched at Wayfarer Coffee Roasters, in Laconia, NH. Since then, we’ve been getting as much feedback as possible from Karen (the owner at Wayfarer), her baristas, and the shop’s customers. Our intent was to bring value to coffee shops in three ways: by increasing revenue, improving customer experience, and maximizing shop efficiency. We’re really excited about how far we’ve come at [Wayfarer](http://www.wayfarerroasters.com), and decided to use this case study to evaluate how we’ve done at adding value for the shop. Our sample size is small, so this is intended for us to get an idea of how we’re doing and to give other shops glimpses of how [Mojo](https://mojocoffee.io) could potentially impact them. We’ve evaluated our sales data, app/site analytics tool data, and surveyed Wayfarer’s owner, baristas, and customers to get as complete of a picture as we can.
+We set out to build the perfect order-ahead platform for local coffee shops, but quickly realized that the only way to get to perfection was to listen closely to our users. After building out a prototype, we launched at [Wayfarer Coffee Roasters](http://www.wayfarerroasters.com), in Laconia, NH. Since then, we’ve been getting as much feedback as possible from Karen (the owner at Wayfarer), her baristas, and the shop’s customers. Our intent was to bring value to coffee shops in three ways: by increasing revenue, improving customer experience, and maximizing shop efficiency. We’re really excited about how far we’ve come at Wayfarer, and decided to use this case study to evaluate how we’ve done at adding value for the shop. Our sample size is small, so this is intended for us to get an idea of how we’re doing and to give other shops glimpses of how [Mojo](https://mojocoffee.io) could potentially impact them. We’ve evaluated our sales data, app/site analytics tool data, and surveyed Wayfarer’s owner, baristas, and customers to get as complete of a picture as we can.
 
 
 
 ## Usage Overview
 {: .mojo-color}
 
-On May 12th, the first Mojo order ever was placed to test that the system was running properly. Three days later on the 15th, [Wayfarer](http://www.wayfarerroasters.com) launched Mojo to a few of their most loyal customers as a pilot program. Since then, Wayfarer’s customers have ordered ahead 1331 times! Mojo wasn’t perfect, but by July 12th, it was running smoothly enough for Wayfarer to post about it on their social media pages. On August 3rd, they ran a social media contest and had 14 orders, a record up to that time. On November 19th, Mojo launched customer loyalty rewards, and since then, Wayfarer customers are ordering ahead more than ten times per day on average.
+On May 12th, the first Mojo order ever was placed to test that the system was running properly. Three days later on the 15th, Wayfarer launched Mojo to a few of their most loyal customers as a pilot program. Since then, Wayfarer’s customers have ordered ahead 1331 times! Mojo wasn’t perfect, but by July 12th, it was running smoothly enough for Wayfarer to post about it on their social media pages. On August 3rd, they ran a social media contest and had 14 orders, a record up to that time. On November 19th, Mojo launched customer loyalty rewards, and since then, Wayfarer customers are ordering ahead more than ten times per day on average.
 
 
 <img src="/assets/images/wayfarerOrders.png" alt="Image" style="margin: 5px 10px 0px 5px; border: 1px solid #000000;">
 
-Customers stick with [Mojo](https://mojocoffee.io) once they start using it! Over half of users who try ordering on the platform are still using it a month later. We just launched rewards recently, so we don’t have a lot of data, but we’ve also seen retention improve in that time.
+Customers stick with Mojo once they start using it! Over half of users who try ordering on the platform are still using it a month later. We just launched rewards recently, so we don’t have a lot of data, but we’ve also seen retention improve in that time.
 
 
 ## Revenue
 {: .mojo-color}
 
-[Mojo](https://mojocoffee.io) is dedicated to empowering and growing independent coffee shops. We understand that increasing shop revenue is an important part of that, so we set out to study how Mojo impacted a shop’s bottom line.
+Mojo is dedicated to empowering and growing independent coffee shops. We understand that increasing shop revenue is an important part of that, so we set out to study how Mojo impacted a shop’s bottom line.
 
 <div class="center" style="height: 300px; width: 300px; border: 2px solid #888888; border-radius: 5px;">
 <span class="large-font mojo-color center_text">64%</span><br>
@@ -63,7 +63,7 @@ As expressed by our NPS, Wayfarer’s customers loved using Mojo. They commented
 </div>
 {: .center}
 
-[Wayfarer](http://www.wayfarerroasters.com) is located in downtown Laconia, making employees of nearby businesses some of the shop’s best customers. When we set out to build Mojo, Karen told us that a small business owner down the road would come over several times per day to  check the line length. He’d often return to his office coffee-less, as he didn’t have time to wait in line. After launching Mojo in [Wayfarer](http://www.wayfarerroasters.com), we kept a close eye on orders by that owner, and were delighted to see him use the platform. We followed up with Karen and she confirmed that Mojo had solved his problem.
+Wayfarer is located in downtown Laconia, making employees of nearby businesses some of the shop’s best customers. When we set out to build Mojo, Karen told us that a small business owner down the road would come over several times per day to  check the line length. He’d often return to his office coffee-less, as he didn’t have time to wait in line. After launching Mojo in Wayfarer, we kept a close eye on orders by that owner, and were delighted to see him use the platform. We followed up with Karen and she confirmed that Mojo had solved his problem.
 
 ## Efficiency
 {: .mojo-color}
