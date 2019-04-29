@@ -1,9 +1,9 @@
 # Site
-name: "Mojo"
-description: "A blog for coffee shop owners and managers made by Mojo."
-meta_description: "A blog for coffee shop owners and managers made by Mojo."
-logo: 'assets/images/mojo_logo.png'
-favicon: 'assets/images/mojo_favicon.png'
+name: "CoffeePass"
+description: "A blog for coffee shop owners and managers made by CoffeePass."
+meta_description: "A blog for coffee shop owners and managers made by CoffeePass."
+logo: 'assets/images/CoffeePass_logo.png'
+favicon: 'assets/images/CoffeePass_favicon.png'
 baseurl: ''
 google_analytics: 'UA-131045016-1'
 disqus: ''
@@ -15,18 +15,18 @@ authors:
     name: drew
     display_name: Drew Bidlen
     avatar: 'assets/images/drew_profile_pic.png'
-    email: drew@mojocoffee.io
+    email: drew@coffeepass.io
     web: https://www.linkedin.com/in/andrewbidlen/
     twitter: https://www.linkedin.com/in/andrewbidlen/
-    description: "Drew lives by the beaches of Charleston, South Carolina with his wife and golden retriever. If he's not working on Mojo, Drew is probably at the beach playing doubles volleyball."
+    description: "Drew lives by the beaches of Charleston, South Carolina with his wife and golden retriever. If he's not working on CoffeePass, Drew is probably at the beach playing doubles volleyball."
   noah:
     name: noah
     display_name: Noah Bragg
     avatar: 'assets/images/noah_profile_pic.png'
-    email: noah@mojocoffee.io
+    email: noah@coffeepass.io
     web: https://twitter.com/NoahBraggg
     twitter: https://twitter.com/NoahBraggg
-    description: "Co-founder of Mojo; a platform for independent coffee shops to offer order-ahead for their customers. Noah loves building software and creating an experience that really delights users! In his free time Noah enjoys reading, listening to podcasts, and playing with his little baby girl!"
+    description: "Co-founder of CoffeePass; a platform for independent coffee shops to offer order-ahead for their customers. Noah loves building software and creating an experience that really delights users! In his free time Noah enjoys reading, listening to podcasts, and playing with his little baby girl!"
 
 # Plugins
 plugins: 

@@ -1,2 +1,2 @@
 # normdoow.github.io
-Blog for Mojo
+Blog for CoffeePass
