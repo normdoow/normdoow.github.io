@@ -13,7 +13,7 @@ We’re excited to announce the addition of order status tracking to CoffeePass!
 
 <img align="right" src="https://media.giphy.com/media/RlrWlW7Ogmm4jnsr9U/giphy.gif" alt="Image" style="margin-left: 10px" >
 
-1. After a customer places an order, they’ll an order status screen, which will initially display “Received” and give a wait time.  
+1. After a customer places an order, they’ll see an order status screen, which will initially display “Received” and give a wait time.  
 
 2. When a barista acknowledges their order on the order-processing app, the status will change to “In Progress” and the wait time will begin to count down
 
