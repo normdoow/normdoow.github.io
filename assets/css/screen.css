@@ -681,3 +681,13 @@ License: https://www.wowthemes.net/freebies-license/
     border-width: 1px;
     border-color: black;
 }
+.right {
+    text-align: right;
+    align-content: right;
+    align-items: right;
+}
+.left {
+    text-align: left;
+    align-content: left;
+    align-items: left ;
+}
