@@ -1,7 +1,7 @@
 # Site
 name: "CoffeePass"
-description: "A blog for coffee shop owners and managers made by CoffeePass."
-meta_description: "A blog for coffee shop owners and managers made by CoffeePass."
+description: "A blog for coffee shop owners and managers, made by CoffeePass."
+meta_description: "A blog for coffee shop owners and managers, made by CoffeePass."
 logo: 'assets/images/CoffeePass_logo.png'
 favicon: 'assets/images/CoffeePass_favicon.png'
 baseurl: ''
