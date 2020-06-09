@@ -1,2 +1,2 @@
-# normdoow.github.io
+# CoffeePass Blog
 Blog for CoffeePass
